@@ -1,0 +1,6 @@
+{
+  "name": "Boardly",
+  "description": "Boardly – Offline Whiteboard & Sketch App. Sketch, design, study, and plan with an infinite canvas, custom shapes, sticky notes, templates, and high-quality local saving/exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
